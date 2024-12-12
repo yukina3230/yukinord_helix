@@ -126,7 +126,7 @@
 "ui.statusline.normal" = { fg = "nord0_alt", bg = "nord8" }
 "ui.statusline.insert" = { fg = "nord0_alt", bg = "nord13" }
 "ui.statusline.select" = { fg = "nord0_alt", bg = "nord15" }
-"ui.statusline.separator" = { fg = "nord6" }
+"ui.statusline.separator" = { fg = "nord5" }
 "ui.bufferline" = { fg = "nord5", bg = "nord0" }
 "ui.bufferline.active" = { fg = "nord0_alt", bg = "nord8" }
 "ui.bufferline.background" = { bg = "nord0" }
