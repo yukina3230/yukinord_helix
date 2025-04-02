@@ -86,7 +86,7 @@
 "markup.quote" = { fg = "nord14", bg = "nord0" }
 "markup.raw" = {}
 "markup.raw.inline" = { fg = "nord13", bg = "nord0" }
-"markup.raw.block" = { fg = "nord13", bg = "nord0" }
+"markup.raw.block" = { fg = "nord4", bg = "nord0" }
 "diff" = {}
 "diff.plus" = { fg = "nord14" }
 "diff.plus.gutter" = { fg = "nord14" }
